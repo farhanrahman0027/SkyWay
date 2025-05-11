@@ -176,7 +176,7 @@ const Profile: React.FC = () => {
               <div className="bg-blue-50 p-4 rounded-lg text-center mb-6">
                 <p className="text-sm text-blue-600 mb-1">Available Balance</p>
                 <p className="text-3xl font-bold text-blue-700">
-                  ₹{userData?.wallet.balance.toLocaleString() || 0}
+                  ₹{userData?.wallet.balance.toLocaleString() || 50000}
                 </p>
               </div>
               

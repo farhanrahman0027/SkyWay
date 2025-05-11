@@ -115,13 +115,13 @@ const BookingCard: React.FC<BookingCardProps> = ({
                 E-Ticket
               </button>
               
-              <Link 
+              {/* <Link 
                 to={`/bookings/${id}`}
                 className="btn btn-primary flex items-center text-xs py-1.5"
               >
                 <FileText className="h-3 w-3 mr-1" />
                 Details
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
