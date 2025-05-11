@@ -51,8 +51,7 @@ A responsive full-stack flight booking web application built with **React.js** a
 git clone https://github.com/farhanrahman0027/SkyWay.git
 cd SkyWay
 
-🧑‍💻 Author
-Farhanur Rahman
+
 
 
 
